@@ -67,7 +67,7 @@ for i in range(n):
 ```
 
 ## Output:
-![output](OUTPUT5.png)
+![output](/OUTPUT5.png)
 
 
 ## Result:
