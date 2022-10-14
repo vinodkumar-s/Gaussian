@@ -19,9 +19,11 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 7. Display Result.
 
 ## Program:
-## Program to find the solution of a matrix using Gaussian Elimination.
-## Developed by: s.vinod kumar
-## RegisterNumber: 22004903
+Program to find the solution of a matrix using Gaussian Elimination.
+
+Developed by: s.vinod kumar
+
+RegisterNumber: 22004903
 
 
 ``` python
